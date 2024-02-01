@@ -1,0 +1,6 @@
+version control----mainting the diffrent copies of code---which helps in reverting back if there is an error or to know which commit caused the error
+continuous integration----which pulls the changes made to the code and make a single repo then build which incldes validating,reviewing,testing(unit testing---testing the single unit
+integration testing---how the different parts works together)
+continuous delivery---deploy on to the test server to perform user acceptance testing---once accepted--ready for prod server--automatically its done is callled CD
+devops--integrate and automate the sofware devolopment and oerations
+pipeline--scripts the supports ci and cd
